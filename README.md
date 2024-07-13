@@ -46,4 +46,6 @@
 
 <img src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ![GitHub Snake Animation](./output/snake.svg)
+![GitHub Snake Animation](https://github.com/ericmogu/github-snake/blob/output/snake.svg)
+
 ###
