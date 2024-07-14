@@ -30,8 +30,13 @@
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height="30" alt="SQL logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452156/angular.svg" height="30" alt="Angular logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" height="30" alt="Mongo logo"  />
    
 </div>
+
 
 ###
 
