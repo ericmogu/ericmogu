@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-![Snake Animation](./output/snake.svg)
+![GitHub Snake Animation](https://github.com/ericmogu/github-snake/blob/output/snake.svg)
+
 
 ###
