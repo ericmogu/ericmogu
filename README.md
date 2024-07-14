@@ -34,7 +34,7 @@
   <img src="https://www.svgrepo.com/show/452156/angular.svg" height="30" alt="Angular logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" height="30" alt="Mongo logo"  />
-   
+   <img width="12" />
 </div>
 
 
