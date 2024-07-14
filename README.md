@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/184143/java.svg" height="30" alt="c++ logo"  />  
+  <img src="https://www.svgrepo.com/show/184143/java.svg" height="32" alt="c++ logo"  />  
 </div>
 
 ###
