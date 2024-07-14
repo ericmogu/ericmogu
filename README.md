@@ -14,6 +14,9 @@
 ###
 
 <div align="left">
+  
+  <img src="https://www.svgrepo.com/show/184143/java.svg" height="32" alt="Java logo"  /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,8 +30,7 @@
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height="30" alt="SQL logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/184143/java.svg" height="32" alt="c++ logo"  />  
+   
 </div>
 
 ###
