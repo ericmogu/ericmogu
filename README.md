@@ -42,7 +42,7 @@
 
 <div align="left">
 
-  <a title="Linkedin" href="https://www.linkedin.com/in/ericmogu/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="linkedin logo" /></a>
+  <a title="Linkedin" style="border-radius: 25% 10%;" href="https://www.linkedin.com/in/ericmogu/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35"  alt="linkedin logo" /></a>
   <a href="mailto:eric.montenegroguerrero@gmail.com?Subject=Interesado%20en%20contactar"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a title="Instagram" href="https://public.tableau.com/app/profile/eric.montenegro/vizzes" target="_blank"> <img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=264A82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau logo"  /></a>
   <a title="Kaggle" href="https://www.kaggle.com/ericmontenegro" target="_blank"> <img src="https://img.shields.io/static/v1?message=Kaggle&logo=Kaggle&label=&color=34BFF0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
