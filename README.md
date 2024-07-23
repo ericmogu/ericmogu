@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eric Montenegro and I'm a Data Engineer, from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Eric Montenegro and I'm a Data Engineer interested for Data Science, from Colombia</h2>
 
 ###
 
