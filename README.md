@@ -44,8 +44,8 @@
 
   <a title="Linkedin"  href="https://www.linkedin.com/in/ericmogu/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="border-radius: 10;" height="35"  alt="linkedin logo" /></a>
   <a title="Instagram" href="https://public.tableau.com/app/profile/eric.montenegro/vizzes" target="_blank"> <img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=264A82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau logo"  /></a>
-  <a title="GCP" href="https://www.cloudskillsboost.google/public_profiles/c577a696-63e6-4a72-9290-47cdd0101d07" > <img src="https://img.shields.io/static/v1?message=Google Skill&logo=googlecloud&label=&color=4285f4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GCP logo"/></a>
-  <a title="ML" href="https://www.cloudskillsboost.google/public_profiles/c577a696-63e6-4a72-9290-47cdd0101d07"><img src="https://img.shields.io/static/v1?message=Microsoft Learn&logo=googlecloud&label=&color=f65314&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ML logo"  /></a>
+  <a title="GCP" href="https://www.cloudskillsboost.google/public_profiles/c577a696-63e6-4a72-9290-47cdd0101d07" > <img src="https://img.shields.io/static/v1?message=GCP&logo=googlecloud&label=&color=4285f4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GCP logo"/></a>
+  <a title="ML" href="https://www.cloudskillsboost.google/public_profiles/c577a696-63e6-4a72-9290-47cdd0101d07"><img src="https://img.shields.io/static/v1?message=Microsoft&logo=googlecloud&label=&color=f65314&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ML logo"  /></a>
   <a href="mailto:eric.montenegroguerrero@gmail.com?Subject=Interesado%20en%20contactar"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   
 </div>
